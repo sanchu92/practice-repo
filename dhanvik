@@ -1,2 +1,8 @@
 hi...i am writing thi on git hub repository
+<<<<<<< HEAD
 wow...new msg
+=======
+
+who r u
+why not
+>>>>>>> 627cd71dd779f10bfd5029ae646f9362ce432af4
